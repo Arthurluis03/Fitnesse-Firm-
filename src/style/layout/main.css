@@ -1,0 +1,39 @@
+.main-conteudo {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 1000px;
+}
+
+.pt1{
+    margin: 60px;
+    display: flex;
+}
+.pt2{
+    margin: 70px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.txt-i{
+    color: black;
+}
+.pt1, .pt2{
+    gap: 30px;
+}
+.barra{
+    background-color: #3b83f6d1;
+    margin-top: 140px;
+    height: 50px;
+    width: 100%;
+
+}
+
+.pt1-txt{
+    font-size: x-large;
+}
+
+
+
+

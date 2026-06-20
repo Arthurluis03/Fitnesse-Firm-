@@ -1,0 +1,40 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+header{
+    display: flex;
+
+}
+.Tittle{
+    color: white;
+    background-color: #3b83f6d1;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    
+}
+
+.tittle-fit-header{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: xxx-large;    
+    padding: 62px;
+    display: flex;
+    width: 100%;
+}
+
+.nav-t{
+    padding: 62px;
+    width: 100%;
+    justify-content: center;
+    display: flex;
+
+
+}
+
+.nav-n{
+    text-decoration: none;
+    color: white;
+
+}

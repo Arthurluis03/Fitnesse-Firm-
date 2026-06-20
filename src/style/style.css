@@ -1,0 +1,9 @@
+@import url(layout/header.css);
+@import url(layout/main.css);
+@import url(layout/section.css);
+
+html {
+  scroll-behavior: smooth;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+

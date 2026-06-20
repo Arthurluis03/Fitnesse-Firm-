@@ -1,0 +1,96 @@
+.cards{
+    height: 700px;
+    max-height: 500px;
+    display: flex;
+    justify-content: space-between;
+    margin: 120px;
+}
+
+.card-1, .card-2, .card-3{
+    margin: 30px;
+    width: 100%;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    display: flex;
+    border-radius: 50px;
+    border: 3px solid;
+
+}
+.card-1:hover, .card-2:hover, .card-3:hover{
+    
+    box-shadow: 3px 3px 30px #3b83f6d1;
+    
+}
+
+.card-1{
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    display: flex;
+}
+.t-card{
+    margin-bottom: 150px;
+}
+
+.p-card{
+    margin-bottom: 130px;
+    font-size: xxx-large;
+
+}
+
+.comprar{
+    text-decoration: none;
+    color: black;
+    font-size: x-large;
+    background-color: aliceblue;
+    border-radius: 20px;
+    padding: 10px;    
+}
+
+.titulo-cards{
+    font-size: xxx-large;
+    justify-content: center;
+    margin: 50px;
+    padding: 20px;
+    align-items: center;
+    display: flex;
+}
+
+
+.icons{
+   align-items: center;
+    display: flex;
+    justify-content: space-between;
+    margin: 50px;
+    margin-top: 60px;
+}
+.ctt-insta, .ctt-whats, .ctt-js{
+    width: 40px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    
+
+}
+
+.sct-cntt, .cnt{
+    font-size: xx-large;
+    margin: auto;
+    justify-content: center;
+    margin-top: 30px;
+    display: flex;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+
+
+.ctt-insta:hover, .ctt-whats:hover, .ctt-js:hover{
+
+    box-shadow: 3px 3px 102px #3b83f6d1;
+    
+    
+
+}
